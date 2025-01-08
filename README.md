@@ -19,12 +19,13 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Connectify-Instagram-OAuth-Helper.git
+[//github.com/yourusername/Connectify-Instagram-OAuth-Helper.git](https://github.com/Cloudy0006/connectify-oauth)
+
 Navigate into the project directory:
 
 bash
 Copy code
-cd Connectify-Instagram-OAuth-Helper
+cd Connectify-Oauth
 Install the required dependencies:
 
 bash
